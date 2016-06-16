@@ -11,9 +11,8 @@ An Arduino-based robot with iOS controller which features accelerometer control,
 #### Arduino Uno
 ![Arduino Uno](/assets/ArduinoUno_R3_Front_450px.jpg)
 
-#### Duinopeak BLE 4.0 shield for Arduino Uno
+#### Duinopeak BLE shield for Arduino Uno
 ![BLE Shield](/assets/ble4shield.png)
-http://duinopeak.com/wiki/index.php?title=BLE_Shield_-_Bluetooth_low_energy
 
 #### Adafruit motor shield V2 for Arduino
 ![Adfruit Motor Shield V2](/assets/motor_shield_v2.jpg)
