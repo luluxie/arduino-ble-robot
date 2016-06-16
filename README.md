@@ -22,6 +22,9 @@ A 2-track move base with 12v DC motors
 #### Raspberry Pi 2 B+
 ![Raspberry Pi 2](/assets/raspberry_pi_2.jpg)
 
+#### Wifi dongle for Raspberry Pi
+![Wifi Dongle](/assets/EDUP.jpg)
+
 ## How does it work
 
 ![Concept design](/assets/design_scratch.png)
