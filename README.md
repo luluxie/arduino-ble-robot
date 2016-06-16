@@ -1,5 +1,5 @@
 # arduino-ble-robot
-An Arduino-based robot with iOS controller which features gyro control, live video streaming and robot gripper manipulation.
+An Arduino-based robot with iOS controller which features accelerotemeter control, live video streaming and robot gripper manipulation.
 
 ![Gyroscope aixes](/assets/Gyro.png)
 
