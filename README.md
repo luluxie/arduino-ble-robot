@@ -1,14 +1,13 @@
 # arduino-ble-robot
 An Arduino-based robot with iOS controller which features accelerometer control, live video streaming and robot gripper manipulation.
 
+#### iPhone accelerometer aixes 
 ![Gyroscope aixes](/assets/Gyro.png)
 
 ## iOS Controller
 ![iOS controller screenshot](/assets/ios_screenshot.png)
 
 ## Part List
-
-
 #### Arduino Uno
 ![Arduino Uno](/assets/ArduinoUno_R3_Front_450px.jpg)
 
