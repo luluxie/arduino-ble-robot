@@ -1,9 +1,6 @@
 # arduino-ble-robot
 An Arduino-based robot with iOS controller which features accelerometer control, live video streaming and robot gripper manipulation.
 
-#### iPhone accelerometer aixes 
-![Gyroscope aixes](/assets/Gyro.png)
-
 ## iOS Controller
 ![iOS controller screenshot](/assets/ios_screenshot.png)
 
@@ -24,3 +21,8 @@ A 2-track move base with 12v DC motors
 
 #### Raspberry Pi 2 B+
 ![Raspberry Pi 2](/assets/raspberry_pi_2.jpg)
+
+## How does it work
+
+#### iPhone accelerometer aixes 
+![Gyroscope aixes](/assets/Gyro.png)
