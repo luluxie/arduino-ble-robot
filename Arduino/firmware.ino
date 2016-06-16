@@ -26,7 +26,7 @@
 #define TxD 3
 //#define BLE Serial
 
-// ******* SENSOR ******//
+// ******* SONAR SENSOR ******//
 #define trigPin 6
 #define echoPin 7
  
@@ -65,7 +65,7 @@
 #define SFT_4    0xB4
 #define SFT_5    0xB5
 
-// ********** SPEED OFFSET ********** // Motors with encoder is recommended
+// ********** SPEED OFFSET ********** // Motors with encoder are recommended to avoid doing this manually
 #define SPEED_OFFSET_SFT1         0
 #define SPEED_OFFSET_SFT2         6
 #define SPEED_OFFSET_SFT3         0
