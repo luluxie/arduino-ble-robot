@@ -18,6 +18,9 @@ An Arduino-based robot with iOS controller which features accelerometer control,
 
 A 2-track move base with 12v DC motors
 
+##### Mi Powerbank 5V
+![Power Bank](/assets/powerbank.jpeg)
+
 ### Video Streaming
 ##### Logitech C270 webcam
 ![Logitech C270](/assets/c270.png)
