@@ -1,6 +1,9 @@
 # arduino-ble-robot
 An Arduino-based robot with iOS controller which features gyro control, live video streaming and robot gripper manipulation.
 
+## iOS Controller
+![iOS controller screenshot](/assets/ios_screenshot.png)
+
 ## Part List
 
 * Arduino Uno
