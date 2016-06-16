@@ -24,5 +24,7 @@ A 2-track move base with 12v DC motors
 
 ## How does it work
 
-#### iPhone accelerometer aixes 
+![Concept design](/assets/design_scratch.png)
+
+#### iPhone accelerometer aixes
 ![Gyroscope aixes](/assets/Gyro.png)
