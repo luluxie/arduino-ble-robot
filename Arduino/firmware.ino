@@ -65,7 +65,7 @@
 #define SFT_4    0xB4
 #define SFT_5    0xB5
 
-// ********** SPEED OFFSET ********** // An encoder is recommended to be used
+// ********** SPEED OFFSET ********** // Motors with encoder is recommended
 #define SPEED_OFFSET_SFT1         0
 #define SPEED_OFFSET_SFT2         6
 #define SPEED_OFFSET_SFT3         0
