@@ -39,6 +39,11 @@ A 2-track move base with 12v DC motors
 ![Gyroscope aixes](/assets/Gyro.png)
 
 ## Resources
+
+Adafruit motor shield V2 for Arduino
+
+https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/overview
+
 Duinopeak BLE shield for Arduino Uno
 
 http://duinopeak.com/wiki/index.php?title=BLE_Shield_-_Bluetooth_low_energy
