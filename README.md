@@ -37,3 +37,9 @@ A 2-track move base with 12v DC motors
 
 #### iPhone accelerometer aixes
 ![Gyroscope aixes](/assets/Gyro.png)
+
+## Resources
+Duinopeak BLE shield for Arduino Uno
+
+http://duinopeak.com/wiki/index.php?title=BLE_Shield_-_Bluetooth_low_energy
+
